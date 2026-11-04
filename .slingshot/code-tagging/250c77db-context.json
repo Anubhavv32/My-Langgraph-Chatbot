@@ -1,0 +1,18 @@
+{
+  "filename": "streamlit_chatbot_fe.py",
+  "path": "streamlit_chatbot_fe.py",
+  "version": "1.1",
+  "files": {},
+  "promptMessage": {
+    "c900e430": {
+      "value": "if user_input:\n    st.session_state['message_history'].append({'role': 'user', 'content': user_input})\n    with st.chat_message('user'):\n        st.text(user_input)\n\n    response = chatbot.invoke({'messages': [HumanMessage(content=user_input)]}, config=config)\n    #ai_message = response['messages'][-1].content\n    #st.session_state['message_history'].append({'role': 'assistant', 'content': ai_message})\n    with st.chat_message('assistant'):\n        ai_message = st.write_stream(\n            messa"
+    },
+    "bee1e597": {
+      "value": "for thread_id in st.session_state['chat_threads']:\n    if st.sidebar.button(str(thread_id)):\n        st.session_state['thread_id'] = thread_id\n        messages = load_conversation(thread_id)\n        temp_messages = []\n        for msg in messages:\n            if isinstance(msg, HumanMessage):\n                role = 'user'\n            else:\n                role= 'assistant'\n            temp_messages.append({'role': role, 'content': msg.get['messages']})\n        st.session_state['message_history'] "
+    }
+  },
+  "localPrompts": {},
+  "remotePrompts": {},
+  "figma": {},
+  "jira": {}
+}

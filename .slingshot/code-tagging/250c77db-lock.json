@@ -1,0 +1,271 @@
+{
+  "streamlit_chatbot_fe.py": {
+    "filename": "streamlit_chatbot_fe.py",
+    "path": "streamlit_chatbot_fe.py",
+    "version": "1.2",
+    "contextFile": "250c77db-context.json",
+    "chunks": {
+      "4458c3": {
+        "user": "Anubhav Sharma",
+        "model": "gpt-4.1",
+        "timestamp": 1793283087,
+        "platform": "VisualStudioCode",
+        "product": "AIPP",
+        "productVersion": "3.6.1",
+        "source": "chat",
+        "type": "copyCode",
+        "extraContext": {
+          "promptMessage": "c900e430"
+        },
+        "hash": "a0031184",
+        "messageId": "system_bf60bee0-d3a1-11f1-8874-5ffd250ccf06",
+        "codeBlockId": "system_bf60bee0-d3a1-11f1-8874-5ffd250ccf06-Codeblock-1",
+        "isActive": false,
+        "hoverData": "\n### Slingshot Generated Code\n\n- **user**: Anubhav Sharma\n- **model**: gpt-4.1\n- **timestamp**: 29/10/2026, 19:41:27\n- **source**: chat\n- **type**: copyCode\n"
+      },
+      "c1838f": {
+        "user": "Anubhav Sharma",
+        "model": "gpt-4.1",
+        "timestamp": 1793283088,
+        "platform": "VisualStudioCode",
+        "product": "AIPP",
+        "productVersion": "3.6.1",
+        "source": "chat",
+        "type": "copyCode",
+        "extraContext": {
+          "promptMessage": "c900e430"
+        },
+        "hash": "a0031184",
+        "messageId": "system_bf60bee0-d3a1-11f1-8874-5ffd250ccf06",
+        "codeBlockId": "system_bf60bee0-d3a1-11f1-8874-5ffd250ccf06-Codeblock-1",
+        "isActive": true,
+        "hoverData": "\n### Slingshot Generated Code\n\n- **user**: Anubhav Sharma\n- **model**: gpt-4.1\n- **timestamp**: 29/10/2026, 19:41:28\n- **source**: chat\n- **type**: copyCode\n"
+      },
+      "9e5d50": {
+        "user": "Anubhav Sharma",
+        "model": "gpt-4.1",
+        "timestamp": 1793283088,
+        "platform": "VisualStudioCode",
+        "product": "AIPP",
+        "productVersion": "3.6.1",
+        "source": "chat",
+        "type": "copyCode",
+        "extraContext": {
+          "promptMessage": "c900e430"
+        },
+        "hash": "a0031184",
+        "messageId": "system_bf60bee0-d3a1-11f1-8874-5ffd250ccf06",
+        "codeBlockId": "system_bf60bee0-d3a1-11f1-8874-5ffd250ccf06-Codeblock-1",
+        "isActive": false,
+        "hoverData": "\n### Slingshot Generated Code\n\n- **user**: Anubhav Sharma\n- **model**: gpt-4.1\n- **timestamp**: 29/10/2026, 19:41:28\n- **source**: chat\n- **type**: copyCode\n"
+      },
+      "79c9b7": {
+        "user": "Anubhav Sharma",
+        "model": "gpt-4.1",
+        "timestamp": 1793286044,
+        "platform": "VisualStudioCode",
+        "product": "AIPP",
+        "productVersion": "3.6.1",
+        "source": "chat",
+        "type": "copyCode",
+        "extraContext": {
+          "promptMessage": "bee1e597"
+        },
+        "hash": "45961edf",
+        "messageId": "system_584e5b60-d3a9-11f1-8874-5ffd250ccf06",
+        "codeBlockId": "system_584e5b60-d3a9-11f1-8874-5ffd250ccf06-Codeblock-1",
+        "isActive": false,
+        "hoverData": "\n### Slingshot Generated Code\n\n- **user**: Anubhav Sharma\n- **model**: gpt-4.1\n- **timestamp**: 29/10/2026, 20:30:44\n- **source**: chat\n- **type**: copyCode\n"
+      },
+      "13ee5b": {
+        "user": "Anubhav Sharma",
+        "model": "gpt-4.1",
+        "timestamp": 1793286044,
+        "platform": "VisualStudioCode",
+        "product": "AIPP",
+        "productVersion": "3.6.1",
+        "source": "chat",
+        "type": "copyCode",
+        "extraContext": {
+          "promptMessage": "bee1e597"
+        },
+        "hash": "45961edf",
+        "messageId": "system_584e5b60-d3a9-11f1-8874-5ffd250ccf06",
+        "codeBlockId": "system_584e5b60-d3a9-11f1-8874-5ffd250ccf06-Codeblock-1",
+        "isActive": false,
+        "hoverData": "\n### Slingshot Generated Code\n\n- **user**: Anubhav Sharma\n- **model**: gpt-4.1\n- **timestamp**: 29/10/2026, 20:30:44\n- **source**: chat\n- **type**: copyCode\n"
+      },
+      "b3443b": {
+        "user": "Anubhav Sharma",
+        "model": "gpt-4.1",
+        "timestamp": 1793286044,
+        "platform": "VisualStudioCode",
+        "product": "AIPP",
+        "productVersion": "3.6.1",
+        "source": "chat",
+        "type": "copyCode",
+        "extraContext": {
+          "promptMessage": "bee1e597"
+        },
+        "hash": "45961edf",
+        "messageId": "system_584e5b60-d3a9-11f1-8874-5ffd250ccf06",
+        "codeBlockId": "system_584e5b60-d3a9-11f1-8874-5ffd250ccf06-Codeblock-1",
+        "isActive": false,
+        "hoverData": "\n### Slingshot Generated Code\n\n- **user**: Anubhav Sharma\n- **model**: gpt-4.1\n- **timestamp**: 29/10/2026, 20:30:44\n- **source**: chat\n- **type**: copyCode\n"
+      },
+      "d9b310": {
+        "user": "Anubhav Sharma",
+        "model": "gpt-4.1",
+        "timestamp": 1793286045,
+        "platform": "VisualStudioCode",
+        "product": "AIPP",
+        "productVersion": "3.6.1",
+        "source": "chat",
+        "type": "copyCode",
+        "extraContext": {
+          "promptMessage": "bee1e597"
+        },
+        "hash": "45961edf",
+        "messageId": "system_584e5b60-d3a9-11f1-8874-5ffd250ccf06",
+        "codeBlockId": "system_584e5b60-d3a9-11f1-8874-5ffd250ccf06-Codeblock-1",
+        "isActive": true,
+        "hoverData": "\n### Slingshot Generated Code\n\n- **user**: Anubhav Sharma\n- **model**: gpt-4.1\n- **timestamp**: 29/10/2026, 20:30:45\n- **source**: chat\n- **type**: copyCode\n"
+      },
+      "609f68": {
+        "user": "Anubhav Sharma",
+        "model": "gpt-4.1",
+        "timestamp": 1793286045,
+        "platform": "VisualStudioCode",
+        "product": "AIPP",
+        "productVersion": "3.6.1",
+        "source": "chat",
+        "type": "copyCode",
+        "extraContext": {
+          "promptMessage": "bee1e597"
+        },
+        "hash": "45961edf",
+        "messageId": "system_584e5b60-d3a9-11f1-8874-5ffd250ccf06",
+        "codeBlockId": "system_584e5b60-d3a9-11f1-8874-5ffd250ccf06-Codeblock-1",
+        "isActive": false,
+        "hoverData": "\n### Slingshot Generated Code\n\n- **user**: Anubhav Sharma\n- **model**: gpt-4.1\n- **timestamp**: 29/10/2026, 20:30:45\n- **source**: chat\n- **type**: copyCode\n"
+      }
+    },
+    "lines": {
+      "52": {
+        "chunkId": "d9b310",
+        "hash": "8e22c49b",
+        "encoded": "for%20msg%20in%20messages:",
+        "prevChunkIds": [
+          "79c9b7"
+        ]
+      },
+      "53": {
+        "chunkId": "d9b310",
+        "hash": "14dfde89",
+        "encoded": "if%20isinstance(msg,%20HumanMessage):",
+        "prevChunkIds": [
+          "79c9b7"
+        ]
+      },
+      "54": {
+        "chunkId": "d9b310",
+        "hash": "c243b43f",
+        "encoded": "role%20=%20'user'",
+        "prevChunkIds": [
+          "79c9b7"
+        ]
+      },
+      "75": {
+        "chunkId": "c1838f",
+        "hash": "be12ec7c",
+        "encoded": "if%20user_input:",
+        "prevChunkIds": []
+      },
+      "76": {
+        "chunkId": "c1838f",
+        "hash": "154dceda",
+        "encoded": "st.session_state%5B'message_history'%5D.append(%7B'role':%20'user',%20'content':%20user_input%7D)",
+        "prevChunkIds": []
+      },
+      "77": {
+        "chunkId": "c1838f",
+        "hash": "458d460d",
+        "encoded": "with%20st.chat_message('user'):",
+        "prevChunkIds": []
+      },
+      "78": {
+        "chunkId": "c1838f",
+        "hash": "6b432e42",
+        "encoded": "st.text(user_input)",
+        "prevChunkIds": []
+      },
+      "80": {
+        "chunkId": "c1838f",
+        "hash": "f6320e39",
+        "encoded": "#%20Stream%20the%20assistant's%20response%20based%20on%20the%20actual%20user_input%20(no%20hardcoded%20text)",
+        "prevChunkIds": []
+      },
+      "81": {
+        "chunkId": "c1838f",
+        "hash": "0ed016c9",
+        "encoded": "with%20st.chat_message('assistant'):",
+        "prevChunkIds": []
+      },
+      "82": {
+        "chunkId": "c1838f",
+        "hash": "08d0c716",
+        "encoded": "ai_message%20=%20st.write_stream(",
+        "prevChunkIds": []
+      },
+      "83": {
+        "chunkId": "c1838f",
+        "hash": "4e44287f",
+        "encoded": "message_chunk.content",
+        "prevChunkIds": []
+      },
+      "84": {
+        "chunkId": "c1838f",
+        "hash": "78783646",
+        "encoded": "for%20message_chunk,%20metadata%20in%20chatbot.stream(",
+        "prevChunkIds": []
+      },
+      "85": {
+        "chunkId": "c1838f",
+        "hash": "259c1bc4",
+        "encoded": "%7B'messages':%20%5BHumanMessage(content=user_input)%5D%7D,",
+        "prevChunkIds": []
+      },
+      "86": {
+        "chunkId": "c1838f",
+        "hash": "b14f8991",
+        "encoded": "config=config,",
+        "prevChunkIds": []
+      },
+      "87": {
+        "chunkId": "c1838f",
+        "hash": "5c4a6b16",
+        "encoded": "stream_mode=%22messages%22,",
+        "prevChunkIds": []
+      },
+      "88": {
+        "chunkId": "c1838f",
+        "hash": "7140c050",
+        "encoded": ")",
+        "prevChunkIds": []
+      },
+      "89": {
+        "chunkId": "c1838f",
+        "hash": "a497579a",
+        "encoded": ")",
+        "prevChunkIds": []
+      },
+      "90": {
+        "chunkId": "c1838f",
+        "hash": "73692b4d",
+        "encoded": "st.session_state%5B'message_history'%5D.append(%7B'role':%20'assistant',%20'content':%20ai_message%7D)",
+        "prevChunkIds": []
+      }
+    },
+    "_prevLineCount": 93
+  }
+}
